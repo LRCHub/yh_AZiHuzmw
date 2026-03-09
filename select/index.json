@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "紫の夜を越えて",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-09T12:44:29.389467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紫の夜を越えて",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_紫の夜を越えて_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紫の夜を越えて",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/02_紫の夜を越えて_SPITZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紫の夜を越えて",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_紫の夜を越えて_スピッツ.txt"
+    }
+  ]
+}
